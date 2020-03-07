@@ -15,7 +15,7 @@ PASSWORD = "USER_DEFAULT_PASSWORD"
 INTERVAL = 1
 PORBEPORT = 80
 CU = "cu.tz.cloudcpp.com"
-CT = "ct.tz.cloudcpp.com"
+CT = "59.57.182.1"
 CM = "cm.tz.cloudcpp.com"
 
 import socket
